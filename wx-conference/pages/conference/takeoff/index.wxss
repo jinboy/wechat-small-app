@@ -1,0 +1,61 @@
+/* pages/conference/takeoff/index.wxss */
+
+page {
+  position: relative;
+  background-color: #ffffff;
+}
+
+.container {
+  background: #ffffff;
+  font-family: "PingFang SC";
+  font-weight: 500;
+  color: rgba(0, 0, 0, 1);
+}
+
+.type-container {
+  padding: 30rpx;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30rpx;
+}
+
+.title {
+  font-size: 34rpx;
+}
+
+.leave-type-text {
+  font-size: 34rpx;
+  margin-left: auto;
+  margin-right: 32rpx;
+}
+
+.reason {
+  
+  padding: 30rpx;
+}
+
+.reason-title {
+  margin-bottom: 30rpx;
+}
+
+.reason-info {
+  width: 632rpx;
+  background-color: rgba(247, 247, 247, 1);
+  border-radius: 5rpx;
+  padding: 30rpx;
+}
+
+.submit-button-container {
+  width: 474rpx;
+  height: 94rpx;
+  position: fixed;
+  left: 50%;
+  bottom: 57rpx;
+  margin-left: -237rpx;
+}
+
+.submit-button {
+  background: rgba(240, 149, 77, 1) !important;
+  color: #fff !important;
+  border-radius: 6px;
+}

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "tabjin-word-card": "/components/conference/card-detail-word/index"
+  }
+}

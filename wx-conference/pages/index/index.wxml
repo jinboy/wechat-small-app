@@ -1,0 +1,45 @@
+<!--index.wxml-->
+<view class="out-container">
+
+    <view class="noMeeting" hidden="{{hasMeeting}}">
+        <image src="/resources/index/noMeeting.png" class="noMeetingImg" mode="scaleToFill" lazy-load="true"></image>
+    </view>
+
+    <view class="container" hidden="{{!hasMeeting}}">
+        <!-- 会议提醒 -->
+        <view class="conference-list" hidden="{{!isShowNowConferenceList}}">
+            <view class="priority-container remind">
+                <view class="conference-priority">会议提醒</view>
+            </view>
+            <tabjin-card conferenceList="{{nowConferenceList}}" infoOmitted="{{false}}"
+                         hideInfo="{{false}}" hideStatus="{{true}}">
+            </tabjin-card>
+        </view>
+
+        <!-- 预备会议 -->
+        <view class="conference-list" hidden="{{!isShowFutureConferenceList}}">
+            <view class="priority-container preparatory">
+                <view class="conference-priority">预备会议</view>
+            </view>
+            <tabjin-card conferenceList="{{futureConferenceList}}" infoOmitted="{{false}}"
+                         hideInfo="{{true}}" hideStatus="{{true}}">
+            </tabjin-card>
+        </view>
+
+        <!-- 历史会议 -->
+        <view class="conference-list" hidden="{{!isShowPastConferenceList}}">
+            <view class="priority-container history">历史会议
+            </view>
+            <tabjin-card conferenceList="{{pastConferenceList}}" infoOmitted="{{false}}"
+                         hideInfo="{{true}}" hideStatus="{{false}}">
+            </tabjin-card>
+        </view>
+
+        <view class="flex-row middle-button check-in-container" hidden="{{!isLeaderInDepts}}">
+            <!--<button class="check-in" size="" type="primary" data-conference="{{}}" bind:tap="addConference">新增<br>会议</button>-->
+            <view class="check-in" bind:tap="addConference">
+                <text>新增\n会议</text>
+            </view>
+        </view>
+    </view>
+</view>

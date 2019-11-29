@@ -1,0 +1,48 @@
+/* pages/conference/meetingRoom/index.wxss */
+.name-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(255, 255, 255, 1);
+    padding: 32rpx;
+    margin-bottom: 30rpx;
+}
+
+.title {
+    width: 200rpx;
+    height: 35rpx;
+    font-size: 34rpx;
+    font-family: Microsoft YaHei;
+    font-weight: 400;
+    color: rgba(0, 0, 7, 1);
+    line-height: 35rpx;
+}
+
+.name {
+    margin-top: 24rpx;
+}
+
+.location-container {
+    background: rgba(255, 255, 255, 1);
+    margin-bottom: 32rpx;
+    padding: 30rpx;
+}
+
+.address {
+    margin-top: 30rpx;
+}
+
+.submit-button-container {
+    width: 474rpx;
+    height: 94rpx;
+    position: fixed;
+    left: 50%;
+    bottom: 57rpx;
+    margin-left: -237rpx;
+}
+
+.submit-button {
+    background: rgba(240, 149, 77, 1) !important;
+    color: #FFFFFF !important;
+    border-radius: 6px;
+}

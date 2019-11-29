@@ -1,0 +1,22 @@
+<!--pages/conference/takeoff/index.wxml-->
+<view>
+    <form bindsubmit="formSubmit" bindreset="formReset">
+        <view class="container">
+            <view class="type-container" bind:tap="chooseTakeOffType">
+                <text class="title">请选择请假事由</text>
+                <text class="leave-type-text">{{leaveType}}</text>
+            </view>
+            <view class="reason">
+                <view class="reason-title">相关说明</view>
+                <textarea class="reason-info" name="leaveReason" maxlength="-1"
+                          placeholder="请对本次会议请假申请补充相应文字说明。">
+                </textarea>
+            </view>
+        </view>
+
+        <view class="submit-button-container">
+            <button class="submit-button" size="default" type="default" form-type="submit">保存
+            </button>
+        </view>
+    </form>
+</view>

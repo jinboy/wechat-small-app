@@ -1,0 +1,14 @@
+<!--pages/conference/note/index.wxml-->
+<view>
+    <form class="form" bindsubmit="formSubmit" bindreset="formReset">
+        <view class="note-container">
+            <view class="title">会议笔记：</view>
+            <textarea class="note" name="text" auto-height="{{true}}" maxlength="-1"
+                      placeholder="请对本次会议添加相应的笔记内容。"></textarea>
+        </view>
+        <view class="submit-button-container">
+            <button class="submit-button" size="default" type="primary" form-type="submit">提交笔记
+            </button>
+        </view>
+    </form>
+</view>

@@ -1,0 +1,24 @@
+<view>
+    <form bindsubmit="submit" bindreset="reset">
+        <view class="flex-column">
+            <view class="name-container">
+                <view class="title">名称</view>
+                <input class="name" name="name" bindinput="conferenceThemeInput" placeholder="请输入会议室名称（必填）"/>
+            </view>
+        </view>
+        <view class="location-container" bind:tap="chooseLocation">
+            <view class="title">地点</view>
+            <view class="" hidden="{{!chooseLocation}}">
+                <view class="address">{{conference.address}}</view>
+                <textarea style="display:none;" name="location" maxlength="-1" placeholder="{{location}}"
+                          value="{{location}}"></textarea>
+            </view>
+        </view>
+
+        <view class="submit-button-container">
+            <button class="submit-button" size="default" type="primary" form-type="submit">保存
+            </button>
+        </view>
+    </form>
+</view>
+

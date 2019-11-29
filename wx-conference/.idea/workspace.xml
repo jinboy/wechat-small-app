@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f37fdfac-cbd6-47ae-a9b3-7e105b2995aa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/conference/card/index.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/conference/detail/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2756">
+              <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+              <folding>
+                <element signature="e#36#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/location/checkIn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="45" column="64" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conference-top-priority-theme</find>
+      <find>conference-top-priority-topic</find>
+      <find>conference-top-priority-time</find>
+      <find>conference-top-priority-address</find>
+      <find>conference-top-priority-info</find>
+      <find>conference-priority-container</find>
+      <find>conference-preparatory-container</find>
+      <find>conference-history-container</find>
+      <find>Microsoft YaHei</find>
+      <find>conference-history-status</find>
+      <find>conference-priority</find>
+      <find>line-height</find>
+      <find>]</find>
+      <find>toConferenceDetail</find>
+      <find>summary</find>
+      <find>submit-button-container</find>
+      <find>note</find>
+      <find>outer-container</find>
+      <find>inner-container</find>
+      <find>img2</find>
+      <find>theme-text</find>
+      <find>row-line</find>
+      <find>info</find>
+      <find>info-inner-container</find>
+      <find>image-container</find>
+      <find>upload-img-container</find>
+      <find>upload-img</find>
+      <find>takeOff</find>
+      <find>init</find>
+      <find>wx.chooseLocatio</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>wx:key</replace>
+      <replace>wx:for</replace>
+      <replace>wx:if</replace>
+      <replace>bindchange</replace>
+      <replace>bind:tap</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model/party/party-branch.js" />
+        <option value="$PROJECT_DIR$/model/version/VersionController.js" />
+        <option value="$PROJECT_DIR$/model/conference/agenda.js" />
+        <option value="$PROJECT_DIR$/model/statistical/statistic.js" />
+        <option value="$PROJECT_DIR$/pages/statisticalReport/statisticalReport/index.js" />
+        <option value="$PROJECT_DIR$/utils/storage.js" />
+        <option value="$PROJECT_DIR$/pages/statisticalReport/statisticalReport/index.wxss" />
+        <option value="$PROJECT_DIR$/templates/collapse/collapse.axml" />
+        <option value="$PROJECT_DIR$/pages/organization/myOrganization/index.wxss" />
+        <option value="$PROJECT_DIR$/pages/organization/myOrganization/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/organization/myOrganization/index.js" />
+        <option value="$PROJECT_DIR$/app.wxss" />
+        <option value="$PROJECT_DIR$/pages/statisticalReport/statisticalReport/index.wxml" />
+        <option value="$PROJECT_DIR$/model/location/meetingRoom.js" />
+        <option value="$PROJECT_DIR$/config/config.js" />
+        <option value="$PROJECT_DIR$/utils/http.js" />
+        <option value="$PROJECT_DIR$/pages/organization/singleMember/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/add/index.js" />
+        <option value="$PROJECT_DIR$/pages/conference/note/index.js" />
+        <option value="$PROJECT_DIR$/model/authentication/freeLogin.js" />
+        <option value="$PROJECT_DIR$/pages/conference/add/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/add/index.wxss" />
+        <option value="$PROJECT_DIR$/model/interaction/interaction.js" />
+        <option value="$PROJECT_DIR$/pages/conference/meetingRoom/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/meetingRoom/index.js" />
+        <option value="$PROJECT_DIR$/pages/conference/meetingRoom/index.wxss" />
+        <option value="$PROJECT_DIR$/pages/conference/detail/index.wxss" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/pages/index/index.json" />
+        <option value="$PROJECT_DIR$/pages/index/index.wxss" />
+        <option value="$PROJECT_DIR$/components/conference/card/index.wxss" />
+        <option value="$PROJECT_DIR$/pages/index/index.wxml" />
+        <option value="$PROJECT_DIR$/components/conference/card/index.js" />
+        <option value="$PROJECT_DIR$/components/conference/input-pure/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/note/index.wxss" />
+        <option value="$PROJECT_DIR$/config/urlConstant.js" />
+        <option value="$PROJECT_DIR$/pages/conference/detail/index.json" />
+        <option value="$PROJECT_DIR$/components/conference/card-detail-word/index.wxml" />
+        <option value="$PROJECT_DIR$/components/conference/card-detail-word/index.js" />
+        <option value="$PROJECT_DIR$/components/conference/card-detail-word/index.wxss" />
+        <option value="$PROJECT_DIR$/pages/conference/detail/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/note/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/summary/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/takeoff/index.js" />
+        <option value="$PROJECT_DIR$/pages/conference/takeoff/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/takeoff/index.wxss" />
+        <option value="$PROJECT_DIR$/components/conference/card/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/conference/detail/index.js" />
+        <option value="$PROJECT_DIR$/utils/location.js" />
+        <option value="$PROJECT_DIR$/model/location/location.js" />
+        <option value="$PROJECT_DIR$/pages/index/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="359" />
+    <option name="y" value="22" />
+    <option name="width" value="1431" />
+    <option name="height" value="1178" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="location" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="conference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="conference" type="462c0819:PsiDirectoryNode" />
+              <item name="detail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="icon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-conference" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model/location" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/model/statistical" />
+      <recent name="$PROJECT_DIR$/model/conference" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f37fdfac-cbd6-47ae-a9b3-7e105b2995aa" name="Default Changelist" comment="" />
+      <created>1574127309303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574127309303</updated>
+      <workItem from="1574127310883" duration="28239000" />
+      <workItem from="1574421992276" duration="4963000" />
+      <workItem from="1574729569803" duration="20496000" />
+      <workItem from="1574886634883" duration="8225000" />
+      <workItem from="1574916372323" duration="15000" />
+      <workItem from="1574916397245" duration="130000" />
+      <workItem from="1574916575199" duration="9134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71202000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="333" y="22" width="1431" height="1178" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17943263" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/model/version/VersionController.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/didian.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/ding.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/fujian.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/huiyi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/leida.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/lianxiren.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/liexia.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/liexiren.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/miaoshucopy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/right2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/shangchuan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/shezhi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/shijian.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/shoucang2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/xiangce.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/addConference/yaoqing.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/common/add.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/common/delete.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/common/female.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/common/male.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/common/statistic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/organiztion/face2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/organiztion/face.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/organiztion/female.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/organiztion/male.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/organiztion/headImg2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/tabBar/chart-selected.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/tabBar/chart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/tabBar/huiyiyiti.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/tabBar/huiyiyiti-selected.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/testIcon/th.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/testIcon/th1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/wodezhibu/logo2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/wodezhibu/何凤鸣.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/wodezhibu/王芳芳.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/wodezhibu/王芳芳2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/wodezhibu/何凤鸣2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/wodezhibu/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/tabBar/icon1_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/organiztion/headImg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/tabBar/icon1_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon/tabBar/icon2_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/location/meetingRoom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/location.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/conference/card/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/location/location.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/conference/detail/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/conference/detail/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2756">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+          <folding>
+            <element signature="e#36#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/location/checkIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="64" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

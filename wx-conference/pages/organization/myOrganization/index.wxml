@@ -1,0 +1,27 @@
+<!--pages/organization/myOrganization/index.wxml-->
+<view>
+    <view class="name-container">
+        <image class="name-img" mode="scaleToFill" src="/resources/wodezhibu/logo.png"></image>
+        <text class="name-text">广电产业经营支部</text>
+    </view>
+
+    <view class="member-container">
+        <block wx:for="{{organizationPartyMember}}" wx:key="{{index}}" wx:for-index="organizationPartyMember_index"
+               wx:for-item="organizationPartyMember_item">
+            <view class="flex-column single-member" data-singleMember="{{organizationPartyMember_item}}"
+                  bind:tap="toSingleMember">
+                <view class="avatar">
+                    <image wx:if='{{organizationPartyMember_item.headImg}}' class="avatar"
+                           src="{{organizationPartyMember_item.headImg}}" mode="scaleToFill"></image>
+                    <image wx:if='{{!organizationPartyMember_item.headImg}}' class="avatar"
+                           src="{{organizationPartyMember_item.gender=='女'?defaultAvatar[1]:defaultAvatar[0]}}"
+                           mode="scaleToFill"></image>
+                </view>
+                <text class="single-member-name">{{organizationPartyMember_item.name}}</text>
+                <text class="single-member-position">{{organizationPartyMember_item.partyPosts ==
+                    ''?organizationPartyMember_item.partyCategory:organizationPartyMember_item.partyPosts}}
+                </text>
+            </view>
+        </block>
+    </view>
+</view>

@@ -1,0 +1,17 @@
+<!--components/conference/input-pure/index.wxml-->
+<view class="note-container">
+    <textarea class="note" name="text" maxlength="-1" placeholder="会议笔记..."></textarea>
+</view>
+
+
+<view>
+    <form class="form" bindsubmit="formSubmit" bindreset="formReset">
+        <view class="note-container">
+            <textarea class="note" name="text" maxlength="-1" placeholder="会议笔记..."></textarea>
+        </view>
+        <view class="submit-button-container">
+            <button class="submit-button" size="default" type="default" form-type="submit">提交笔记
+            </button>
+        </view>
+    </form>
+</view>

@@ -1,0 +1,93 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"nodeModules": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.9.1",
+	"appid": "wx3258467070c94d7a",
+	"projectname": "wx-conference",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": 0,
+					"name": "会议详情",
+					"pathName": "pages/conference/detail/index",
+					"query": "mid=64",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "新增会议",
+					"pathName": "pages/conference/add/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 3,
+					"name": "会议室",
+					"pathName": "pages/conference/meetingRoom/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "笔记",
+					"pathName": "pages/conference/note/index",
+					"query": "mid=64",
+					"scene": null
+				},
+				{
+					"id": 5,
+					"name": "请假",
+					"pathName": "pages/conference/takeoff/index",
+					"query": "conference='{\"id\":64,\"orgId\":1,\"uid\":\"1219441916791739\",\"theme\":\"主题党日活动\",\"time\":\"2019-11-09 17:10\",\"roomId\":{\"id\":1,\"name\":\"党办会议室\",\"location\":\"119.40954372829862,32.38017578125\"},\"address\":\"党办会议室\",\"topic\":[{\"id\":6,\"name\":\"党小组会、党员大会\"}],\"info\":\"今天开展的支部活动,是贯彻落实机场集团党委活动要求的具体行动,有利于进一步强化党员意识。“不忘初心、牢记使命”主题教育活 动作为今后几个月机场集团最重要的一项政治活动,每位党员要紧扣12字总要求、5句话目标和4个贯穿,结合活动内容,把习近平新时 代中国特色社会主义思想作为抓落实的动力,履职尽责,实实在在为一线解难事、办实事、做好事,以主题教育活动的成效助推机场集团的建设改革发展。\",\"imgs\":[{\"id\":1200,\"path\":\"http://47.105.100.97/dolphin/public/uploads/images/20191121/3451e45e09d5c10cdece2c94e72d2528.jpg\"}],\"summary\":\"这是新增的会议纪要\\n\",\"conferee\":[{\"userid\":\"06276449361971558656\",\"name\":\"申丽娜\",\"avatar\":\"https://static-legacy.dingtalk.com/media/lADPDgQ9q8RWBaXNA4XNA4U_901_901.jpg\",\"sign_type\":2,\"sign_type_txt\":\"迟到\"},{\"userid\":\"012451676326384115\",\"name\":\"杨瑞利\",\"avatar\":\"\",\"sign_type\":2,\"sign_type_txt\":\"迟到\"}],\"open\":1,\"status\":1,\"update_time\":\"2019-11-21 16:34:36\",\"create_time\":\"2019-11-01 09:00:44\",\"msg\":{\"invalid\":[],\"forbidden\":[],\"failed\":[],\"read\":[{\"userid\":\"06276449361971558656\",\"name\":\"申丽娜\",\"avatar\":\"https://static-legacy.dingtalk.com/media/lADPDgQ9q8RWBaXNA4XNA4U_901_901.jpg\"},{\"userid\":\"012451676326384115\",\"name\":\"杨瑞利\",\"avatar\":\"\"}],\"unread\":[]},\"sign_type\":2,\"sign_type_txt\":\"迟到签到\"}'",
+					"scene": null
+				}
+			]
+		}
+	}
+}

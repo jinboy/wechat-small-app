@@ -1,0 +1,38 @@
+/* pages/conference/note/index.wxss */
+
+.note-container {
+  background-color: #fff;
+  padding: 30rpx;
+  font-size: 34rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 1);
+}
+
+.title {
+  margin-bottom: 30rpx;
+}
+
+.note {
+  width: 635rpx;
+  background-color: rgba(247, 247, 247, 1);
+  border-radius: 5rpx;
+  font-size: 32rpx;
+  opacity: 0.7;
+  padding: 28rpx;
+}
+
+.submit-button-container {
+  width: 474rpx;
+  height: 94rpx;
+  position: fixed;
+  left: 50%;
+  bottom: 57rpx;
+  margin-left: -237rpx;
+}
+
+.submit-button {
+  background: rgba(240, 149, 77, 1) !important;
+  color: #fff !important;
+  border-radius: 6px;
+}

@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/organization/myOrganization/index",
+    "pages/statisticalReport/statisticalReport/index",
+    "pages/organization/singleMember/index",
+    "pages/conference/detail/index",
+    "pages/conference/add/index",
+    "pages/conference/note/index",
+    "pages/conference/takeoff/index",
+    "pages/conference/meetingRoom/index",
+    "pages/conference/photo/index",
+    "pages/conference/summary/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#D40029",
+    "navigationBarTitleText": "支部会议",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#808080",
+    "selectedColor": "#D40029",
+    "backgroundColor": "#F5F5F8",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "支部会议",
+        "iconPath": "/resources/icon/tabBar/icon1_1.png",
+        "selectedIconPath": "/resources/icon/tabBar/icon1_2.png"
+      },
+      {
+        "pagePath": "pages/organization/myOrganization/index",
+        "text": "我的支部",
+        "iconPath": "/resources/icon/tabBar/icon2_1.png",
+        "selectedIconPath": "/resources/icon/tabBar/icon2_2.png"
+      },
+      {
+        "pagePath": "pages/statisticalReport/statisticalReport/index",
+        "text": "数据统计",
+        "iconPath": "/resources/icon/tabBar/icon3_1.png",
+        "selectedIconPath": "/resources/icon/tabBar/icon3_2.png"
+      }
+    ]
+  }
+}
